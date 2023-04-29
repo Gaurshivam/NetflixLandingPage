@@ -1,0 +1,21 @@
+.Nav{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.NavLeft{
+    width: 50%;
+}
+.NavRight{
+    width: 50%;  
+}
+
+.btn{
+    background-color: red;
+    float: right;
+    margin-right: 40px;
+}

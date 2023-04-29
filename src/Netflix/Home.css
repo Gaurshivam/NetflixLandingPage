@@ -1,0 +1,16 @@
+.container{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+    margin-top: 150px;
+    text-transform: capitalize;
+}
+.btnApp{
+    background-color: red;
+    color: #fff8dc;
+    width: 400px;
+    padding: 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
